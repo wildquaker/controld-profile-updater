@@ -1,0 +1,438 @@
+{
+    "group": {
+        "group": "Personal Allow",
+        "action": {
+            "do": 1,
+            "status": 1
+        }
+    },
+    "rules": [
+        {
+            "PK": "ads-fa-darwin.hulustream.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "alicdn.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "amp-api-edge.apps.apple.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "amp-api-search-edge.apps.apple.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b-graph.facebook.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bat.bing.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c1.microsoft.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cbsaavideo.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cbsi.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "connect.facebook.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "connect.facebook.net",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "consent.yahoo.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "conviva.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "convivia.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "da.xboxservices.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dcf.espn.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "demdex.net",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dns-clientinfo.cbsivideo.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "doppler-config.cbsivideo.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eulatracking-public-service-prod06.ol.epicgames.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "genius*.itunes.apple.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gfe.nvidia.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "glimmer.hearstapps.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "googleapis.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "graph-fallback.facebook.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "graph-fallback.instagram.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "graph.facebook.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "graph.instagram.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "guce.oath.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i.instagram.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "imasdk.googleapis.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "js.media-lab.ai",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lazcdn.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "logfiles.zoom.us",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "logsink.devices.nest.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nvgs.nvidia.cn",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "partnerad.l.doubleclick.net",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pov.spectrum.net",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pr.comet.yahoo.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "production-cmp.isgprivacy.cbsi.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pubads.g.doubleclick.net",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "purchase.mp.microsoft.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s.youtube.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "saa.cbsi.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "slatic.net",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "smoot.apple.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "srv.sec.intl.miui.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "store-images.s-microsoft.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "summerhamster.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tags.tiqcdn.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tmetrix.my.chick-fil-a.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "udm.scorecardresearch.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "update.intl.miui.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "us04logfiles.zoom.us",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "us04zpns.zoom.us",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "settings-win.data.microsoft.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v20.events.data.microsoft.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10.events.data.microsoft.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xp.apple.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "z-m-graph.facebook.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        },
+        {
+            "PK": "slack.com",
+            "action": {
+                "do": 1,
+                "status": 1
+            }
+        }
+    ]
+}

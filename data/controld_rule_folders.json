@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Spam TLDs Block",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json",
+        "controld_folder_id": 1,
+        "rule_type": 0,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Spam TLDs Allow",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json",
+        "controld_folder_id": 2,
+        "rule_type": 1,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Spam IDNs Block",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json",
+        "controld_folder_id": 3,
+        "rule_type": 0,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Potentially Malicious IPs Block",
+        "raw_url": "https://raw.githubusercontent.com/yokoffing/Control-D-Config/main/folders/potentially-malicious-ips.json",
+        "controld_folder_id": 4,
+        "rule_type": 0,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Personal Allow",
+        "raw_url": "",
+        "controld_folder_id": 5,
+        "rule_type": 1,
+        "local_source_path": "data/personal_allow.json",
+        "enabled": 1
+    },
+    {
+        "name": "Personal Block",
+        "raw_url": "",
+        "controld_folder_id": 6,
+        "rule_type": 0,
+        "local_source_path": "data/personal_block.json",
+        "enabled": 1
+    },
+    {
+        "name": "Badware Hoster Block",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/badware-hoster-folder.json",
+        "controld_folder_id": 7,
+        "rule_type": 0,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Ad'n'Track Wildcard",
+        "raw_url": "",
+        "controld_folder_id": 8,
+        "rule_type": 0,
+        "local_source_path": "data/ad_n_track_block.json",
+        "enabled": 0
+    },
+    {
+        "name": "Analytics Allow",
+        "raw_url": "",
+        "controld_folder_id": 9,
+        "rule_type": 1,
+        "local_source_path": "data/analytics_allow.json",
+        "enabled": 0
+    },
+    {
+        "name": "Analytics Block",
+        "raw_url": "",
+        "controld_folder_id": 10,
+        "rule_type": 0,
+        "local_source_path": "data/analytics_block.json",
+        "enabled": 0
+    },
+    {
+        "name": "Bugtracker Allow",
+        "raw_url": "",
+        "controld_folder_id": 11,
+        "rule_type": 1,
+        "local_source_path": "data/bugtracker_allow.json",
+        "enabled": 0
+    },
+    {
+        "name": "CMP Allow",
+        "raw_url": "",
+        "controld_folder_id": 12,
+        "rule_type": 1,
+        "local_source_path": "data/cmp_allow.json",
+        "enabled": 0
+    },
+    {
+        "name": "No SafeSearch Block",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/nosafesearch-folder.json",
+        "controld_folder_id": 13,
+        "rule_type": 0,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Referral Allow",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/referral-allow-folder.json",
+        "controld_folder_id": 14,
+        "rule_type": 1,
+        "local_source_path": "",
+        "enabled": 1
+    }
+]
