@@ -5,6 +5,7 @@
 - [Ad'n'Track Wildcard](https://github.com/hagezi/dns-blocklists/blob/553843980212b59d10849af761f71fce6e776c1d/controld/ad-n-track-wildcard-folder.json)
 - [Analytics allow](https://github.com/hagezi/dns-blocklists/blob/553843980212b59d10849af761f71fce6e776c1d/controld/analytics-wildcard-allow-folder.json)
 - [Analytics](https://github.com/hagezi/dns-blocklists/blob/553843980212b59d10849af761f71fce6e776c1d/controld/analytics-wildcard-folder.json)
+- [Apple Private Relay](https://github.com/hagezi/dns-blocklists/blob/main/controld/apple-private-relay-allow-folder.json)
 - [Badware Hoster](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json)
 - [Bugtracker](https://github.com/hagezi/dns-blocklists/blob/553843980212b59d10849af761f71fce6e776c1d/controld/bugtracker-allow-folder.json)
 - [Consent Management Platform](https://github.com/hagezi/dns-blocklists/blob/553843980212b59d10849af761f71fce6e776c1d/controld/consent-managment-platform-allow-folder.json)
