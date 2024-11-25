@@ -110,5 +110,13 @@
         "rule_type": 1,
         "local_source_path": "",
         "enabled": 1
+    },
+    {
+        "name": "Apple Private Relay Allow",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/apple-private-relay-allow-folder.json",
+        "controld_folder_id": 15,
+        "rule_type": 1,
+        "local_source_path": "",
+        "enabled": 1
     }
 ]

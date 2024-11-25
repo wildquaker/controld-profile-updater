@@ -3459,20 +3459,6 @@
             }
         },
         {
-            "PK": "doh.dns.apple.com",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "doh.dns.apple.com.v.aaplimg.com",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
             "PK": "ds.ssw.live.com",
             "action": {
                 "do": 0,
