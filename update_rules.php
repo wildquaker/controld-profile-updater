@@ -94,10 +94,23 @@ function updateCustomRules($controld_folder_id, $latest_custom_rules, $custom_ru
     ];*/
 
     $skips = [
+        'activity.windows.com',
+        'arc.msn.com',
+        'atm-settingsfe-prod-geo2.trafficmanager.net',
         'bat.bing.com',
         'bs.serving-sys.com',
         'c1.microsoft.com',
+        'in.appcenter.ms',
+        'js.monitor.azure.com',
         'searx.work',
+        'self-events-data.trafficmanager.net',
+        'settings.data.microsoft.com',
+        'settingsfd-ppe.trafficmanager.net',
+        'settingsfd-sandbox.trafficmanager.net',
+        'settings-sandbox.data.microsoft.com',
+        'settings-win.data.microsoft.com',
+        'settings-win-ppe.data.microsoft.com',
+        'win-global-asimov-leafs-events-data.trafficmanager.net',
         'xo.wtf',
     ];
 
@@ -152,10 +165,23 @@ function updateCustomRules_v2($controld_folder_id, $latest_custom_rules, $custom
         ];*/
 
         $skips = [
+            'activity.windows.com',
+            'arc.msn.com',
+            'atm-settingsfe-prod-geo2.trafficmanager.net',
             'bat.bing.com',
             'bs.serving-sys.com',
             'c1.microsoft.com',
+            'in.appcenter.ms',
+            'js.monitor.azure.com',
             'searx.work',
+            'self-events-data.trafficmanager.net',
+            'settings.data.microsoft.com',
+            'settingsfd-ppe.trafficmanager.net',
+            'settingsfd-sandbox.trafficmanager.net',
+            'settings-sandbox.data.microsoft.com',
+            'settings-win.data.microsoft.com',
+            'settings-win-ppe.data.microsoft.com',
+            'win-global-asimov-leafs-events-data.trafficmanager.net',
             'xo.wtf',
         ];
 
@@ -190,6 +216,7 @@ function updateCustomRules_v2($controld_folder_id, $latest_custom_rules, $custom
 
         return 1;
     } catch (\Exception $e) {
+        print_r($value['PK']);
         throw $e;
     }
 }

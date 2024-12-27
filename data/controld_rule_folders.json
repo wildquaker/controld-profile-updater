@@ -118,5 +118,21 @@
         "rule_type": 1,
         "local_source_path": "",
         "enabled": 1
+    },
+    {
+        "name": "Microsoft Tracker Allow",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/microsoft-allow-folder.json",
+        "controld_folder_id": 16,
+        "rule_type": 1,
+        "local_source_path": "",
+        "enabled": 1
+    },
+    {
+        "name": "Microsoft Tracker Block",
+        "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-microsoft-folder.json",
+        "controld_folder_id": 17,
+        "rule_type": 0,
+        "local_source_path": "",
+        "enabled": 1
     }
 ]

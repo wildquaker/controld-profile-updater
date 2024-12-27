@@ -43,13 +43,6 @@
             }
         },
         {
-            "PK": "bat.bing.com",
-            "action": {
-                "do": 1,
-                "status": 1
-            }
-        },
-        {
             "PK": "c1.microsoft.com",
             "action": {
                 "do": 1,
@@ -387,27 +380,6 @@
         },
         {
             "PK": "us04zpns.zoom.us",
-            "action": {
-                "do": 1,
-                "status": 1
-            }
-        },
-        {
-            "PK": "settings-win.data.microsoft.com",
-            "action": {
-                "do": 1,
-                "status": 1
-            }
-        },
-        {
-            "PK": "v20.events.data.microsoft.com",
-            "action": {
-                "do": 1,
-                "status": 1
-            }
-        },
-        {
-            "PK": "v10.events.data.microsoft.com",
             "action": {
                 "do": 1,
                 "status": 1

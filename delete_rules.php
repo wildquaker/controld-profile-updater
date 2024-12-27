@@ -77,6 +77,10 @@ try {
     $status = null;
 
     foreach ($controld_folders as $controld_folder) {
+        if (!$controld_folder['enabled']) {
+            continue;
+        }
+
         $status = clearCustomRules($controld_folder['controld_folder_id']);
 
         if ($status == 1) {
