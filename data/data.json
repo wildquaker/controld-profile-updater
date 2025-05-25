@@ -1,0 +1,116 @@
+{
+    "home": {
+        "allows": [
+            {
+                "name": "Spam TLDs Allow",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Apple Private Relay",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/apple-private-relay-allow-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "META Tracker allow",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Microsoft Tracker allow",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Referral",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Personal Allows",
+                "url": "",
+                "local_path": "data/allows/personal.json",
+                "status": 1
+            }
+        ],
+        "blocks": [
+            {
+                "name": "Spam TLDs",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Most Abused TLDs",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Spam IDNs",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Potentially Malicious IPs Block",
+                "url": "https://raw.githubusercontent.com/yokoffing/Control-D-Config/main/folders/potentially-malicious-ips.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Badware Hoster",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "No Safesearch Support",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Personal Blocks",
+                "url": "",
+                "local_path": "data/blocks/personal.json",
+                "status": 1
+            }
+        ]
+    },
+    "office": {
+        "allows": [
+            {
+                "name": "Spam TLDs Allow",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json",
+                "local_path": "",
+                "status": 1
+            }
+        ],
+        "blocks": [
+            {
+                "name": "Spam TLDs",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Spam IDNs",
+                "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json",
+                "local_path": "",
+                "status": 1
+            },
+            {
+                "name": "Potentially Malicious IPs",
+                "url": "https://raw.githubusercontent.com/yokoffing/Control-D-Config/refs/heads/main/folders/potentially-malicious-ips.json",
+                "local_path": "",
+                "status": 1
+            }
+        ]
+    }
+}
