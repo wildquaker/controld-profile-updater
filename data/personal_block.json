@@ -8,6 +8,300 @@
     },
     "rules": [
         {
+            "PK": "0789i4f3cq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "08n59yhbxn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0andkf1e8e.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0bj2epfqn1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0k6cw37ajl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0mo5a70cqa.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0n8wirm0nv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0oydr1f856.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0p73385wa6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0ss1vovh4a.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0vrs1f5fso.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "0wcraxg290.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "100.24.211.130",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "116n6tkxyr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "124hzdrtoi.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "12ihfrf869.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "13.227.103.57",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "13hceguz11.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "15ousmguga.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "15phzfr05l.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "162.247.242.20",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "17ov1u3gio.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "17vpu0xkm6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "18.207.85.246",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "18.228.243.121",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "18.230.164.221",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "192.150.14.69",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "192.150.18.101",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "192.150.18.108",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "192.150.22.40",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "192.150.8.100",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "192.150.8.118",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "199.232.114.137",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "199.7.52.190",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "199.7.54.72",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1b9khekel6.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1ei1f4k9yk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1eqkbrjz78.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1hzopx6nz7.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1i09xck9hj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1j3muid89l.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1ngcws40i2.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "1oavsblobprodcus350.blob.core.windows.net",
             "action": {
                 "do": 0,
@@ -15,7 +309,308 @@
             }
         },
         {
-            "PK": "4e83215548583efc70931bb7da7ddd61.fp.measure.office.com",
+            "PK": "1ompyaokc3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1qwiekvkux.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1tw2l9x7xb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1unk1rv07w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1xuyy0mk2p.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "1yzch4f7fj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "209-34-83-73.ood.opsource.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "209.34.83.67",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "209.34.83.73",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "220zxtbjjl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "22gda3bxkb.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "22wqqv6b23.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "23.22.30.141",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "23ynjitwt5.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2621x1nzeq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "28t4psttw7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2bns2f5eza.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2c3bqjchr6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2dhh9vsp39.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2dym9ld8t4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2eiuxr4ky7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2ent6j0ret.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2ftem87osk.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2kc4lqhpto.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2lb39igrph.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2o3c6rbyfr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2os6jhr955.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2qj10f8rdg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2qjz50z5lf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "2sug8qxjag.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3.208.248.199",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3.216.32.253",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3.219.243.226",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3.220.11.113",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3.221.72.231",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3.233.129.217",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "31q40256l4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "34.192.151.90",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "34.215.42.13",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "34.237.241.83",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "34modi5s5d.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "34u96h6rvn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "36ai1uk1z7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "36ivntopuj.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -29,7 +624,1057 @@
             }
         },
         {
+            "PK": "3aqshzqv3w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3ca52znvmj.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3cnu7l5q8s.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3d3wqt96ht.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3d5rp7oyng.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3dns-1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3dns-2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3dns-3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3dns-4.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3dns-5.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3dns.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3ea8nnv3fo.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3jq65qgxeh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3m3e8ccqyo.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3nkkaf8h85.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3odrrlydxt.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3oidzvonpa.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3reg39xtkp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3rm6l6bqwd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3u6k9as4bj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3uyby7kphu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3xuuprv9lg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3ysvacl1hb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "3zgi4mscuk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "411r4c18df.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "41yq116gxd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "42fkk06z8c.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "43q1uykg1z.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "44.240.189.42",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "44qnmxgtif.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "45gnbb50sn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "475ao55klh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "49vfady5kf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "49xq1olxsn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4dviy9tb3o.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4e83215548583efc70931bb7da7ddd61.fp.measure.office.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4f1b1vqcfi.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4fmzz4au8r.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4j225l63ny.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4l6gggpz15.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4pbmn87uov.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4s6bg7xces.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4t5jyh9fkk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4vzokhpsbs.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4xosvsrdto.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "4yw5exucf6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "50lifxkein.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "50sxgwgngu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "52.10.49.85",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "52.20.222.155",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "52.208.86.132",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "52.6.155.20",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "52.84.156.37",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "52h0nva0wa.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "54.156.135.114",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "54.208.86.132",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "54.221.228.134",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "54.224.241.105",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "54cu4v5twu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "55oguiniw8.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "561r5c3bz1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5amul9liob.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5dec9025sr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5et944c3kg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5jdb1nfklf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5ky0dijg73.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5m62o8ud26.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5muggmgxyb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5nae7ued1i.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5pawwgngcc.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5pjcqccrcu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5zcrcdpvlp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "5zgzzv92gn.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "610o7ktxw7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "63.140.38.120",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "63.140.38.160",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "63.140.38.169",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "63.140.38.219",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6482jlr7qo.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "65.8.207.109",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "69rxfbohle.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "69tu0xswvq.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6dnh2pnz6e.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6eidhihhci.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6glym36rbb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6h8391pvf8.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6j0onv1tde.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6ll72mpyxv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6mmsqon7y7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6nbt0kofc7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6purj8tuwe.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6qkk0k4e9n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6t38sdao5e.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6tpqsy07cp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6unmig6t9w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6woibl6fiu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6y6ozj4sot.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "6zknqfiyev.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "72p3yx09zx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "74jqw6xdam.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "75ffpy5iio.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7857z7jy1n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7860w7avqe.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "79j7psfqg5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7fj42ny0sd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7g2gzgk9g1.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7gu7j31tn3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7k1t5im229.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7l4xxjhvkt.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7lj6w2xxew.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7m31guub0q.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7micpuqiwp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7mw85h5tv4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7sj9n87sls.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7tu619a87v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7v0i13wiuf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "7zak80l8ic.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8167gz60t1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "827x3zvk4q.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "83x20gw5jk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "85n85uoa1h.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8eptecerpq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8ljcntz31v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8mtavkaq40.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8ncdzpmmrg.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8nft9ke95j.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8tegcsplp5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "8z20kcq3af.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "917wzppd6w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "94enlu8vov.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "95yojg6epq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "98c6c096dd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "98yu7gk4m3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "99pfl4vazm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9dal0pbsx3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9g12qgnfe4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9iay914wzy.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9k4qeathc0.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9mblf9n5zf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9ngulmtgqi.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9nqvoa544j.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9orhsmzhzs.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9pa13v8uko.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9rcgbke6qx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9sg9gr4zf4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9uffo0j6wj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9wcrtdzcti.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9wm8di7ifk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9xxyu4ncc9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "9yod0aafmi.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -141,6 +1786,13 @@
             }
         },
         {
+            "PK": "a-ring-fallback.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "a-ring.msedge.net",
             "action": {
                 "do": 0,
@@ -190,6 +1842,48 @@
             }
         },
         {
+            "PK": "a1y2b7wsna.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a3cgga0v52.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a3dxeq2iq9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a5dtr1c4er.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a69wv3f4j3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "a9ctb1jmbv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "about-test-deploy.ads.microsoft.com",
             "action": {
                 "do": 0,
@@ -219,6 +1913,97 @@
         },
         {
             "PK": "academycourses.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "acakpm3wmd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate-sea.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate-sea.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate-sjc0.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate-sjc0.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.wip.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.wip1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.wip2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.wip3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.wip3.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "activate.wip4.adobe.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -281,6 +2066,118 @@
             }
         },
         {
+            "PK": "adobe-dns-01.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns-1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns-2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns-2.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns-3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns-3.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns-4.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe-dns.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe.activate.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe.demdex.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobe.tt.omtrdc.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobedc.demdex.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobeereg.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "adobeid-na1.services.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ads.bingads.microsoft.com",
             "action": {
                 "do": 0,
@@ -309,7 +2206,35 @@
             }
         },
         {
+            "PK": "ag0ak456at.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "agps.location.live.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "agxqobl83f.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ah0uf3uzwe.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ah5otkl8ie.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -337,6 +2262,20 @@
             }
         },
         {
+            "PK": "ajs31fsy2t.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ak1ow4e0u3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "aka-cdn-ns.adtech.de",
             "action": {
                 "do": 0,
@@ -345,6 +2284,13 @@
         },
         {
             "PK": "alpha.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "altz51db7t.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -365,7 +2311,28 @@
             }
         },
         {
+            "PK": "anl33sxvkb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "anllgxlrgl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "answers.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "aoorovjtha.adobe.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -477,6 +2444,27 @@
             }
         },
         {
+            "PK": "ar1hqm61sk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ar3zpq1idw.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "arc.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "arc.msn.com.nsatc.net",
             "action": {
                 "do": 0,
@@ -492,6 +2480,27 @@
         },
         {
             "PK": "ars.smartscreen.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "arzggvbs37.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "as15ffplma.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "as73qhl83n.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -520,6 +2529,13 @@
         },
         {
             "PK": "asimov.vortex.data.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "assets.adobedtm.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -617,7 +2633,21 @@
             }
         },
         {
+            "PK": "auth-cloudfront.prod.ims.adobejanus.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "auth.gfx.ms",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "auth.services.adobe.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -632,6 +2662,13 @@
         },
         {
             "PK": "automatedirstrprdeus.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ay8wypezvi.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -729,6 +2766,41 @@
             }
         },
         {
+            "PK": "b0giyj3mc1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b343x3kjgp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b4ur7jk78w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b5kbg2ggog.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "b8qwvscik0.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "bat.r.msn.com",
             "action": {
                 "do": 0,
@@ -736,7 +2808,21 @@
             }
         },
         {
+            "PK": "bbraowhh29.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "bc.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bc27a8e3zw.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -751,6 +2837,13 @@
         },
         {
             "PK": "bcp.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "be5d7iw6y1.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -800,6 +2893,27 @@
         },
         {
             "PK": "bingforbusiness.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bjooauydoa.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bk7y1gneyk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bk8pzmo8g4.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -1163,6 +3277,27 @@
             }
         },
         {
+            "PK": "bp5qqybokw.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bpvcty7ry7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bqbvmlmtmo.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "brazilsouth-0.in.applicationinsights.azure.com",
             "action": {
                 "do": 0,
@@ -1219,6 +3354,13 @@
             }
         },
         {
+            "PK": "bs2yhuojzm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "bulk.api.bingads.microsoft.com",
             "action": {
                 "do": 0,
@@ -1227,6 +3369,20 @@
         },
         {
             "PK": "bulk.api.sandbox.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "business.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "bvcj3prq1u.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -1268,7 +3424,77 @@
             }
         },
         {
+            "PK": "c-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "c.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c0cczlv877.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c474kdh1ky.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c4dpyxapo7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c675s4pigj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c72tusw5wi.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c7udtzsk2j.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "c8pyxo4r20.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -1283,6 +3509,13 @@
         },
         {
             "PK": "cab.watson.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cai-splunk-proxy.adobe.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -1338,6 +3571,62 @@
             }
         },
         {
+            "PK": "cc-api-data.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cc-cdn.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cc-cdn.adobe.com.edgekey.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cclibraries-defaults-cdn.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cclibraries-defaults-cdn.adobe.com.edgekey.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cctypekit.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cd536oo20y.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cde0alxs25.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "cdn.atdmt.com",
             "action": {
                 "do": 0,
@@ -1367,272 +3656,6 @@
         },
         {
             "PK": "cds10.stn.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds27.ory.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds38.ory.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds46.ory.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds54.ory.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds177.dus.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds299.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds308.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds310.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds405.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds406.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds407.fra.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds416.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds421.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds422.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds425.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds426.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds447.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds458.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds459.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds461.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds468.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds469.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds471.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds483.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds484.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds489.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds493.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds494.lcy.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds812.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds815.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds818.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds832.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds836.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds840.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds843.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds857.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds868.lon.llnw.net",
-            "action": {
-                "do": 0,
-                "status": 1
-            }
-        },
-        {
-            "PK": "cds869.lon.llnw.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -1759,6 +3782,13 @@
         },
         {
             "PK": "cds1327.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds177.dus.llnw.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2052,7 +4082,273 @@
             }
         },
         {
+            "PK": "cds27.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds299.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "cds30027.stn.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds308.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds310.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds38.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds405.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds406.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds407.fra.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds416.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds421.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds422.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds425.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds426.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds447.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds458.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds459.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds46.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds461.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds468.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds469.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds471.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds483.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds484.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds489.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds493.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds494.lcy.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds54.ory.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds812.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds815.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds818.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds832.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds836.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds840.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds843.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds857.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds868.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cds869.lon.llnw.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cducupwlaq.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2095,6 +4391,27 @@
         },
         {
             "PK": "centralus.in.applicationinsights.azure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ceuswatcab01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ceuswatcab02.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cfh5v77fsy.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2185,6 +4502,13 @@
             }
         },
         {
+            "PK": "chlydkc9bz.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "choice.microsoft.com",
             "action": {
                 "do": 0,
@@ -2193,6 +4517,27 @@
         },
         {
             "PK": "choice.microsoft.com.nsatc.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ci5yrifbog.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cim9wvs3is.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ckh0swnp4c.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2248,7 +4593,35 @@
             }
         },
         {
+            "PK": "cmdls.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cn-assets.adobedtm.com.edgekey.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "co2.sls.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "co4.telecommand.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "co9sg87h3h.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2325,7 +4698,42 @@
             }
         },
         {
+            "PK": "cr2fouxnpm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "creativecdn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "crl.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "crl.verisign.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "crlog-crcn.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "crs.cr.adobe.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2346,6 +4754,146 @@
             }
         },
         {
+            "PK": "cs11.wpc.v0cdn.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cs1137.wpc.gammacdn.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "csb8usj9o4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "curbpindd3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv218qmzox6.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv24b15c1z0.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv24v41zibm.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv256ds6c99.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2b0yc07ls.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2bqhsp36w.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2fcqvzl1r.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2l4573ukh.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2nn9r0j2r.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2ska86hnt.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2ys4tjt9x.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2yt8sqmh0.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cv2zp87w2eo.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cvl65mxwmh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cwejcdduvp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "cxqenfk6in.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "cy2.settings.data.microsoft.com.akadns.net",
             "action": {
                 "do": 0,
@@ -2354,6 +4902,34 @@
         },
         {
             "PK": "cy2.vortex.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "d101mw99xq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "d2ke1291mx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "d6zco8is6l.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "d8hof9a6gg.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2458,6 +5034,20 @@
             }
         },
         {
+            "PK": "dfnm3epsb7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dfwv44wffr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "diagnostics.support.microsoft.com",
             "action": {
                 "do": 0,
@@ -2521,7 +5111,154 @@
             }
         },
         {
+            "PK": "dobw5hakm0.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dq1gubixz7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dqaytc21nb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dr02lso5fh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dr1wq4uepg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "drdqxhlcop.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dri0xipdj1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dru0w44scl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "drwizwikc0.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ds.ssw.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dsj4bsmk6i.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dt549nqpx7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dtt06hnkyj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dual-s-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dx0nvmv4hz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dxegvh5wpp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dxyeyf6ecy.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dymfhyu5t7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dyv9axahup.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "dyzt55url8.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "e1tyeiimw3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "e8yny99m61.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2619,7 +5356,35 @@
             }
         },
         {
+            "PK": "eaus2watcab01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eaus2watcab02.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ebvf40engd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ec.atdmt.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ecn-us.dev.virtualearth.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2654,7 +5419,35 @@
             }
         },
         {
+            "PK": "edgeassetservice.azureedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "edgeproxy-irl1.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "edgetipscdn.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eftcpaiu36.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "elf5yl77ju.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2669,6 +5462,97 @@
         },
         {
             "PK": "emea.events.data.trafficmanager.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eq7dbze88m.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "eqo0sr8daw.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.wip.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.wip1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.wip2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.wip3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ereg.wip4.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "esx6aswt5e.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "et3x020m0i.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ethos.ethos02-prod-irl1.ethos.adobe.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "etqjl6s9m9.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2773,6 +5657,13 @@
             }
         },
         {
+            "PK": "eu927m40hm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "europe.cp.wd.microsoft.com",
             "action": {
                 "do": 0,
@@ -2822,6 +5713,62 @@
             }
         },
         {
+            "PK": "eyiu19jd5w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "f7ul6vs4ha.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "f8m1p3tltt.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "f8wflegco1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "f9554salkg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fc2k38te2m.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fcbx058i0c.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fd.api.iris.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "fd.bingads.microsoft.com",
             "action": {
                 "do": 0,
@@ -2857,6 +5804,34 @@
             }
         },
         {
+            "PK": "ffirm4ruur.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ffs3xik41x.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fg7bb8gi6d.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fgh5v09kcn.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "finance.services.appex.bing.com",
             "action": {
                 "do": 0,
@@ -2864,7 +5839,49 @@
             }
         },
         {
+            "PK": "fl34tml8is.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "flutt9urxr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fm8m3wxufy.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "foodanddrink.tile.appex.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fp-afd-nocache-ccp.azureedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fp-vs.azureedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fp.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2892,6 +5909,13 @@
             }
         },
         {
+            "PK": "fqaq3pq1o9.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "fr-fr.appex-rf.msn.com",
             "action": {
                 "do": 0,
@@ -2913,7 +5937,28 @@
             }
         },
         {
+            "PK": "fsx0pbg4rz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fu9wr8tk0u.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "functional.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "fw6x2fs3fr.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2928,6 +5973,69 @@
         },
         {
             "PK": "g.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g0rhyhkd7l.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g3y09mbaam.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g58jqxdh3y.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g6elufzgx7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g6ld7orx5r.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g7zh7zqzqx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "g9cli80sqp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gdtbhgs27n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "genuine.adobe.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2955,6 +6063,13 @@
             }
         },
         {
+            "PK": "geo2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "germanywestcentral-0.in.applicationinsights.azure.com",
             "action": {
                 "do": 0,
@@ -2963,6 +6078,13 @@
         },
         {
             "PK": "germanywestcentral-1.in.applicationinsights.azure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gglnjgxaia.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -2990,6 +6112,27 @@
             }
         },
         {
+            "PK": "gm2ai4nsfq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gpd3r2mkgs.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "graph-next.fp.measure.office.com",
             "action": {
                 "do": 0,
@@ -2998,6 +6141,62 @@
         },
         {
             "PK": "graph.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "guzg78logz.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gw8gfjbs05.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gwbpood8w4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "gyt27lbjb3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "h33a7kps0t.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "h3hqd6gjkd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hbejpf1qou.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hciylk3wpv.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3026,6 +6225,48 @@
         },
         {
             "PK": "help.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "helpexamples.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hen2jsru7c.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "heufuideue.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hf6s5jdv95.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hijfpxclgz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hjs70w1pdi.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3564,6 +6805,69 @@
             }
         },
         {
+            "PK": "hl2rcv.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hl2rcv.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hlrcv.stage.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hmonvr006v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hnk7phkxtg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hob0cz1xnx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hq0mnwz735.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hrfn4gru1j.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hs6dwhuiwh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "hub.analytics.trafficmanager.net",
             "action": {
                 "do": 0,
@@ -3572,6 +6876,13 @@
         },
         {
             "PK": "hubstordev3sstor1.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "hwfqhlenbg.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3704,6 +7015,13 @@
             }
         },
         {
+            "PK": "I-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "i-sn2-cor001.api.p001.1drv.com",
             "action": {
                 "do": 0,
@@ -3726,6 +7044,62 @@
         },
         {
             "PK": "i-sn3p-cor002.api.p001.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i1j2plx3mv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i2x2ius9o5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i487nlno13.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i48z07b7gr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i4x0voa7ns.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i6gl29bvy6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "i7pq6fgbsl.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ic.adobe.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3767,6 +7141,20 @@
             }
         },
         {
+            "PK": "ij0gdyrfka.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ijl01wuoed.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "images-ppe.adsyndication.msn.com",
             "action": {
                 "do": 0,
@@ -3796,6 +7184,13 @@
         },
         {
             "PK": "img.stb.s-msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ims-na1-prprod.adobelogin.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3872,6 +7267,13 @@
             }
         },
         {
+            "PK": "iqhvrdhql4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "isgemail.blob.core.windows.net",
             "action": {
                 "do": 0,
@@ -3880,6 +7282,188 @@
         },
         {
             "PK": "iteactive-pra.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "itiabkzm7h.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iu7mq0jcce.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv218qmzox6.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv24b15c1z0.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv24v41zibm.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv256ds6c99.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2b0yc07ls.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2bqhsp36w.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2fcqvzl1r.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2l4573ukh.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2nn9r0j2r.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2ska86hnt.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2ys4tjt9x.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2yt8sqmh0.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iv2zp87w2eo.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ivbnpthtl2.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iw4sp0v9h3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iy304996hm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "iyuzq3njtk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "izke0wrq9n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "j0qztjp9ep.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "j134yk6hv5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "j14y4uzge7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "j5vsm79i8a.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "j7wq25n7dy.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jaircqa037.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3901,6 +7485,62 @@
         },
         {
             "PK": "japanwest-0.in.applicationinsights.azure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jatil41mhk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jc95y2v12r.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "je5ufnklzs.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jewn0nrrp8.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jfb7fqf90c.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jh34ro8dm2.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jir97hss11.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jmx50quqz0.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3942,6 +7582,48 @@
             }
         },
         {
+            "PK": "jsspeczo2f.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jsusbknzle.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jsxfc5yij1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jwi6q78hu2.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jwonv590qs.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "jye4987hyr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "k-ring.msedge.net",
             "action": {
                 "do": 0,
@@ -3949,7 +7631,70 @@
             }
         },
         {
+            "PK": "k2zeiskfro.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "k9cyzt2wha.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kbdgy1yszf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kd4c3z4xbz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kgj0gsg3cf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "kiwi.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kjhzwuhcel.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kk6mqz4ho1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "klw4np5a1x.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kmqhqhs02w.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -3970,6 +7715,62 @@
             }
         },
         {
+            "PK": "kqs7x93q8r.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kst1t43sji.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ksw6oyvdk6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ktb8rx6uhe.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kvi8uopy6f.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kvn19sesfx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kwi5n2ruax.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "kx8yghodgl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "l4.tb.events.data.trafficmanager.net",
             "action": {
                 "do": 0,
@@ -3984,6 +7785,27 @@
             }
         },
         {
+            "PK": "l558s6jwzy.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "l6uu15bwug.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "l91nnnkmbi.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "lb1.www.ms.akadns.net",
             "action": {
                 "do": 0,
@@ -3991,7 +7813,35 @@
             }
         },
         {
+            "PK": "lcs-cops.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lcs-robs.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "learninglab.about.ads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "license.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "licenses.adobe.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4020,6 +7870,69 @@
         },
         {
             "PK": "live.rads.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ll8xjr580v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "llnh72p5m3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lm-prd-da1.licenses.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lm.licenses.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lmlicenses.wip4.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ln-ring.msedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ln3pv36xx8.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lnosso28q5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lnwbupw1s7.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4061,6 +7974,48 @@
             }
         },
         {
+            "PK": "lp4og15wl5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lre1kgz2u4.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ltby3lmge7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ltjlscpozx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lv5yrjxh6i.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "lz2x4rks1u.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "m.adnxs.com",
             "action": {
                 "do": 0,
@@ -4082,6 +8037,13 @@
             }
         },
         {
+            "PK": "m07jtnnega.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "m365cdn.nel.measure.office.net",
             "action": {
                 "do": 0,
@@ -4090,6 +8052,41 @@
         },
         {
             "PK": "m365cdn.nelsdf.measure.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m59b4msyph.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m59cps6x3n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m5cgk2pkdn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m8c5gtovwb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "m95pt874uw.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4124,6 +8121,13 @@
             }
         },
         {
+            "PK": "me7z7bchov.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "mediaredirect.microsoft.com",
             "action": {
                 "do": 0,
@@ -4138,7 +8142,35 @@
             }
         },
         {
+            "PK": "mge8tcrsbr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mi9rav314a.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mid2473ggd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "mmcapi.ads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mme5z7vvqy.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4173,7 +8205,21 @@
             }
         },
         {
+            "PK": "modern.watson.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "modern.watson.data.microsoft.com.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "mpsige2va9.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4257,6 +8303,69 @@
             }
         },
         {
+            "PK": "mvnfbgfx93.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "n0yaid7q47.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "n17cast4au.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "n746qg9j4i.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "n78vmdxqwc.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "na1r.services.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "na2m-pr.licenses.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "na2m-stg2.licenses.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "na4r.services.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "nav.smartscreen.microsoft.com",
             "action": {
                 "do": 0,
@@ -4320,7 +8429,56 @@
             }
         },
         {
+            "PK": "nh8wam2qd9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nhc73ypmli.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nhs5jfxg10.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nj66fd4dzr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nj9rqrql3b.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nl00xmmmn5.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "nleditor.osi.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "no95ceu36c.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4397,6 +8555,27 @@
             }
         },
         {
+            "PK": "now8wpo1bv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "npt74s16x9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nrenlhdc1t.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ns1.fp.measure.office.com",
             "action": {
                 "do": 0,
@@ -4411,6 +8590,13 @@
             }
         },
         {
+            "PK": "ns6ckzkjzg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ntp.msn.com",
             "action": {
                 "do": 0,
@@ -4419,6 +8605,48 @@
         },
         {
             "PK": "nw-umwatson.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nw3ft2wlrn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "nxq02alk63.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "o1qtkpin3e.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "o6pk3ypjcf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "o9617jdaiw.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oca.microsoft.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4446,7 +8674,28 @@
             }
         },
         {
+            "PK": "ocsp.spo1.verisign.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "odc.officeapps.live.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oeab9s6dtf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oee5i55vyo.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -4510,6 +8759,62 @@
         },
         {
             "PK": "officehub.nel.measure.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ofgajs60g1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oh41yzugiz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ok02isdwcx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ok6tbgxfta.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ok9sn4bf8f.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "olh5t1ccns.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "om2h3oklke.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "om52ny8l9s.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5174,6 +9479,13 @@
             }
         },
         {
+            "PK": "ood.opsource.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "optanon.blob.core.windows.net",
             "action": {
                 "do": 0,
@@ -5182,6 +9494,13 @@
         },
         {
             "PK": "otf.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ouovuyeiee.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5237,6 +9556,76 @@
             }
         },
         {
+            "PK": "ow1o9yr32j.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "oxiz2n3i4v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p0bjuoe16a.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p13n.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p3lj3o9h1s.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p3m760solq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p4apxcgh7b.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p4hiwy76wl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p50zgina3e.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "p7uxzbht8h.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "packages.dmd.metaservices.microsoft.com",
             "action": {
                 "do": 0,
@@ -5252,6 +9641,27 @@
         },
         {
             "PK": "partner.api.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pc6sk9bygv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pcmdl6zcfd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pdb7v5ul5q.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5279,7 +9689,35 @@
             }
         },
         {
+            "PK": "pf80yxt5md.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ph0f2h2csf.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "pipe.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pljm140ld1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pojvrj7ho5.adobe.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5293,7 +9731,77 @@
             }
         },
         {
+            "PK": "powfb7xi5v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ppe.telemetry.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ppn4fq68w7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate-da1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe.",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe.ipp",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe.newoa",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "practivate.adobe.ntp",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5314,6 +9822,34 @@
             }
         },
         {
+            "PK": "prod-azurecdn-akamai-iris.azureedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "prod-rel-ffc-ccm.oobesaas.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "prod.adobegenuine.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "psc20x5pmv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "pstrgqp01.blob.core.windows.net",
             "action": {
                 "do": 0,
@@ -5328,7 +9864,168 @@
             }
         },
         {
+            "PK": "pv218qmzox6.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv24b15c1z0.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv24v41zibm.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv256ds6c99.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2b0yc07ls.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2bqhsp36w.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2fcqvzl1r.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2l4573ukh.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2nn9r0j2r.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2ska86hnt.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2ys4tjt9x.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2yt8sqmh0.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "pv2zp87w2eo.prod.cloud.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "px8vklwioh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "q0z6ycmvhl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "q7i4awui0j.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "q9hjwppxeq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "qatarcentral-0.in.applicationinsights.azure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qh0htdwe2n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qmyqpp3xs3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qn2ex1zblg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qp5bivnlrp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qqyyhr3eqr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qttaz1hur3.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5342,7 +10039,63 @@
             }
         },
         {
+            "PK": "quij2u03a1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "quptxdg94y.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qwzzhqpliv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qx2t3lrpmg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "qxc5z5sqkv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "r.g.bing.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r00r33ldza.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r0exxqftud.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r1lqxul5sr.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5356,7 +10109,49 @@
             }
         },
         {
+            "PK": "r3zj0yju1q.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r5hacgq5w6.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r7sawld5l6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r9qg11e83v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "r9r6oomgms.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "rad.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rb0u8l34kr.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5419,7 +10214,42 @@
             }
         },
         {
+            "PK": "riiohpqnpf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ris.api.iris.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rj669kv2lc.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rlo1n6mv52.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rm3xrk61n1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rmnia8d0tr.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5454,7 +10284,56 @@
             }
         },
         {
+            "PK": "rptowanjjh.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rs2deio0ks.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "rt.applicationinsights.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "rtfuwp21b3.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ry9atn2zzw.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s-2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s-3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s-ring.msedge.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5475,7 +10354,49 @@
             }
         },
         {
+            "PK": "s14z1kt85g.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "s2s.config.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s4y2s7r9ah.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s6195z8x2q.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s7odt342lo.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "s8liwh6vbn.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sa4visje3j.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5496,7 +10417,28 @@
             }
         },
         {
+            "PK": "sap3m7umfu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sbzo5r4687.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "schemas.microsoft.akadns.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "scmnpedxm0.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5553,6 +10495,13 @@
         },
         {
             "PK": "secure.sandbox.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "self.events.data.microsoft.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5636,6 +10585,13 @@
             }
         },
         {
+            "PK": "services.prod.ims.adobejanus.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "services.wes.df.telemetry.microsoft.com",
             "action": {
                 "do": 0,
@@ -5650,6 +10606,13 @@
             }
         },
         {
+            "PK": "settings-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "settings.data.glbdns2.microsoft.com",
             "action": {
                 "do": 0,
@@ -5657,7 +10620,21 @@
             }
         },
         {
+            "PK": "settings.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "sfdataservice.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sfmzkcuf2f.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5692,7 +10669,21 @@
             }
         },
         {
+            "PK": "skg7pqn0al.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "skyapi.live.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "slx5l73jwh.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5707,6 +10698,13 @@
         },
         {
             "PK": "smetric.ads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "smtcbgh2n7.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5728,6 +10726,13 @@
         },
         {
             "PK": "sn3301-g.1drv.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "soirhk7bm2.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5776,6 +10781,20 @@
             }
         },
         {
+            "PK": "spbuswk2di.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "spclient.wg.spotify.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "spo.nel.measure.office.net",
             "action": {
                 "do": 0,
@@ -5805,6 +10824,27 @@
         },
         {
             "PK": "sqm.telemetry.microsoft.com.nsatc.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "srtb.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ssl-delivery.adobe.com.edgekey.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sstats.adobe.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5846,7 +10886,28 @@
             }
         },
         {
+            "PK": "staticview.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "status.ads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "stls.adobe.com-cn.edgesuite.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5916,6 +10977,13 @@
             }
         },
         {
+            "PK": "svcgy434g6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "swedencentral-0.in.applicationinsights.azure.com",
             "action": {
                 "do": 0,
@@ -5924,6 +10992,34 @@
         },
         {
             "PK": "switzerlandnorth-0.in.applicationinsights.azure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "swxs9c0fpt.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "sz2edaz2s9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "szvbv5h62r.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "t-ring-fdv2.msedge.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -5958,6 +11054,27 @@
             }
         },
         {
+            "PK": "t8nxhdgbcb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "t9phy8ywkd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tagtjqcvqg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "tb.events.data.microsoft.com",
             "action": {
                 "do": 0,
@@ -5973,6 +11090,20 @@
         },
         {
             "PK": "tb.pipe.aria.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tcxqcguhww.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tdatxzi3t4.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6021,7 +11152,21 @@
             }
         },
         {
+            "PK": "telemetry.dropbox.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "telemetry.remoteapp.windowsazure.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "telemetry.v.dropbox.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6035,7 +11180,21 @@
             }
         },
         {
+            "PK": "tf3an24xls.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "tfl.nel.measure.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "th.bing.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6084,6 +11243,13 @@
             }
         },
         {
+            "PK": "tld9di3jxu.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "to-do.microsoft.com",
             "action": {
                 "do": 0,
@@ -6091,7 +11257,77 @@
             }
         },
         {
+            "PK": "tprqy2lgua.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tqcbs617dw.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "trc2fpy0j4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "troubleshooting.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tse1.mm.bing.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tss-geotrust-crl.thawte.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tyqs8bsps8.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tyradj47rp.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "tzbl46vv9o.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "u31z50xvp9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ua0pnr1x8v.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6127,6 +11363,20 @@
         },
         {
             "PK": "ucm.bingads.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uds.licenses.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uf0onoepoe.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6176,6 +11426,13 @@
         },
         {
             "PK": "ui.skype.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ujqx8lhpz4.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6259,6 +11516,13 @@
             }
         },
         {
+            "PK": "uo6uihbs9y.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "upload.fp.measure.office.com",
             "action": {
                 "do": 0,
@@ -6267,6 +11531,27 @@
         },
         {
             "PK": "upload2.fp.measure.office.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uqshzexj7y.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ura7zj55r9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uroc9kxpcb.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6371,6 +11656,13 @@
             }
         },
         {
+            "PK": "use-stls.adobe.com.edgesuite.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "usgovarizona-0.in.applicationinsights.azure.us",
             "action": {
                 "do": 0,
@@ -6413,6 +11705,76 @@
             }
         },
         {
+            "PK": "uwr2upexhs.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "uytor2bsee.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10.vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v10c.events.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v5f89yjtcw.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v5nweiv7nf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v5zm23ixg2.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "v7esmx1n0s.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vajcbj9qgq.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "validation-v2.sls.microsoft.com",
             "action": {
                 "do": 0,
@@ -6427,7 +11789,42 @@
             }
         },
         {
+            "PK": "vcorzsld2a.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vd8bjo50bv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "version.hybrid.api.here.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vfsjlgw02v.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vgetwxoqno.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vicsj37lhf.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6455,6 +11852,34 @@
             }
         },
         {
+            "PK": "vn4waib0dk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vnm70hlbn4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vodh16neme.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vortex-win.data.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "vortex.data.glbdns2.microsoft.com",
             "action": {
                 "do": 0,
@@ -6462,7 +11887,105 @@
             }
         },
         {
+            "PK": "vp7ih9xoxg.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vqiktmz3k1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vqrc5mq1tm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vr1i32txj7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vr25z2lfqx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vrz9w7o7yv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vvpexgmc5t.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "vvzbv1ba9r.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "w.apprep.smartscreen.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w3ffpxhbn6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w58drkayqf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w8mvrujj91.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w8x0780324.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w8yfgti2yd.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "w9m8uwm145.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6525,6 +12048,13 @@
             }
         },
         {
+            "PK": "wcxqmuxd4z.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "wdcp.microsoft.com",
             "action": {
                 "do": 0,
@@ -6533,6 +12063,20 @@
         },
         {
             "PK": "wdcpalt.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wdyav7y3rf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "weathermapdata.blob.core.windows.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6686,7 +12230,35 @@
             }
         },
         {
-            "PK": "win8.ipv6.microsoft.com",
+            "PK": "weus2watcab01.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "weus2watcab02.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wfyeckyxxx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "widgetcdn.azureedge.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "widgetservice.azurefd.net",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6707,6 +12279,13 @@
             }
         },
         {
+            "PK": "win8.ipv6.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "windows.msn.com",
             "action": {
                 "do": 0,
@@ -6721,7 +12300,84 @@
             }
         },
         {
+            "PK": "wip.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wip1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wip2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wip3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wip4.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wjoxlf5x2z.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wjpmg2uott.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wk0sculz2x.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wn9kta1iw4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wntfgdo4ki.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "wordonline.nel.measure.office.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "workflow-ui-prod.licensingstack.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6757,6 +12413,699 @@
         },
         {
             "PK": "wscont2.apps.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wtooadkup9.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip100.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip101.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip102.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip103.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip104.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip105.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip106.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip107.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip108.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip109.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip110.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip111.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip112.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip113.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip114.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip115.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip116.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip117.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip118.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip119.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip120.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip121.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip122.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip123.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip124.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip125.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip30.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip31.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip32.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip33.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip34.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip35.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip36.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip37.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip38.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip39.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip40.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip41.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip42.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip43.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip44.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip45.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip46.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip47.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip48.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip49.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip50.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip51.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip52.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip53.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip54.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip55.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip56.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip57.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip58.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip59.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip60.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip60.adobe.de",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip61.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip62.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip63.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip64.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip65.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip66.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip67.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip68.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip69.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip70.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip71.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip72.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip73.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip74.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip75.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip76.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip77.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip78.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip79.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip80.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip81.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip82.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip83.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip84.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip85.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip86.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip87.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip88.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip89.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip90.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip91.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip92.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip93.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip94.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip95.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip96.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip97.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip98.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wwis-dubc1-vip99.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.adobeereg.com",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6812,6 +13161,13 @@
             }
         },
         {
+            "PK": "www.msn.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "www.telecommandsvc.microsoft.com",
             "action": {
                 "do": 0,
@@ -6826,7 +13182,49 @@
             }
         },
         {
+            "PK": "www.wip.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.wip1.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.wip2.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.wip3.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "www.wip4.adobe.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "www.xboxab.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "wz8kjkd9gc.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6840,7 +13238,112 @@
             }
         },
         {
+            "PK": "x12wor9jo6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x3sszs7ihy.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x5cupsunjc.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x66v4qn2t7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x880ulw3h0.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x8kb03c0jr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x8thl73e7u.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "x9u2jsesk0.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xa8g202i4u.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xbd20b9wqa.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xbhspynj8t.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "xblgdvrassets3010.blob.core.windows.net",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xesnl0ss94.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xgj8lmrcy6.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xljz63k33x.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xm8abqacqz.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
@@ -6854,7 +13357,294 @@
             }
         },
         {
+            "PK": "xngv0345gb.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xo9j8bcw4a.adobe.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xod1t4qsyk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xq68npgl4w.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xqh2khegrf.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xsn76p7ntx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "xz9xjlyw58.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "y2r8jzsv4p.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "y53h2xkr61.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "y8f3hhzhsk.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yajkeabyrj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yaxne83fvv.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yb6j6g0r1n.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yhxcdjy2st.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yj8yx3y8zo.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yljkdk5tky.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yri0bsu0ak.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yshuhythub.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yuzuoqo0il.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yvbzqwn2gz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "yykww43js1.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "z2cez9qgcl.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "z2yohmd1jm.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "z3shmocdp4.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "z66m01zo11.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "z83qksw5cq.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zekdqanici.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zf1aegmmle.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zf37mp80xx.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zfzx6hae4g.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zglaizubbj.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zmg3v61bbr.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zn0o46rt48.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zooyvml70k.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zqr7f445uc.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zr60t8ia88.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zrao5tdh1t.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zrbzvc9mel.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
             "PK": "ztd.dds.microsoft.com",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "ztxgqqizv7.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zu8yy3jkaz.adobestats.io",
+            "action": {
+                "do": 0,
+                "status": 1
+            }
+        },
+        {
+            "PK": "zz8r2o83on.adobestats.io",
             "action": {
                 "do": 0,
                 "status": 1
